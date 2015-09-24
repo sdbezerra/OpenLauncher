@@ -87,7 +87,7 @@ namespace TeraLauncher
                 restart = true;
             }
             Program.msg.send(_m, "");
-            _x.Text = "Aera Gaming International";
+            _x.Text = "Tera World Private Server";
             patch = new Thread(new ThreadStart(webClientProgress));
             patch.Start();
         }

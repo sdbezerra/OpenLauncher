@@ -9,3 +9,14 @@ D:\projects\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb
 D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.dll
 D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.pdb
 D:\projects\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.xml
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe.config
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.exe
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.pdb
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.exe
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\bin\Debug\TeraLauncher.pdb
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.pdb
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\bin\Debug\Ionic.Zip.xml
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csprojResolveAssemblyReference.cache
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Main.resources
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.Properties.Resources.resources
+D:\Games Dev\Tera\Launchers\teralauncher\TeraLauncher\TeraLauncher\obj\Debug\TeraLauncher.csproj.GenerateResource.Cache

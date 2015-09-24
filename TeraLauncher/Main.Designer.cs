@@ -37,9 +37,10 @@
             // 
             this._m.BackColor = System.Drawing.Color.Transparent;
             this._m.ForeColor = System.Drawing.Color.White;
-            this._m.Location = new System.Drawing.Point(12, 273);
+            this._m.Location = new System.Drawing.Point(16, 336);
+            this._m.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this._m.Name = "_m";
-            this._m.Size = new System.Drawing.Size(184, 13);
+            this._m.Size = new System.Drawing.Size(245, 16);
             this._m.TabIndex = 0;
             this._m.Text = "...";
             // 
@@ -47,25 +48,26 @@
             // 
             this._x.BackColor = System.Drawing.Color.Transparent;
             this._x.ForeColor = System.Drawing.Color.White;
-            this._x.Location = new System.Drawing.Point(221, 273);
+            this._x.Location = new System.Drawing.Point(295, 336);
+            this._x.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this._x.Name = "_x";
-            this._x.Size = new System.Drawing.Size(165, 13);
+            this._x.Size = new System.Drawing.Size(220, 16);
             this._x.TabIndex = 1;
             this._x.Text = "Patch Version : 0";
             this._x.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // Main
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.CausesValidation = false;
-            this.ClientSize = new System.Drawing.Size(395, 295);
+            this.ClientSize = new System.Drawing.Size(527, 363);
             this.ControlBox = false;
             this.Controls.Add(this._x);
             this.Controls.Add(this._m);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Main";
